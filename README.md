@@ -30,4 +30,8 @@
   * If investments are for different time periods.
     * If A invests Rs. x for p months and B invests Rs. y for q months, then
       * A's share of profit: B's share of profit = xp : yq    
-        
+       
+    * A's share of profit: B's share of profit: C's share of profit = xp : yq : zr
+      * where, x = investment of A, Y = investment of B, Z = investment of C
+      * and, p = time of investment of A, q = time of investment of B and r = time of investment of C
+         
