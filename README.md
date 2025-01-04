@@ -32,6 +32,6 @@
       * A's share of profit: B's share of profit = xp : yq    
        
     * A's share of profit: B's share of profit: C's share of profit = xp : yq : zr
-      * where, x = investment of A, Y = investment of B, Z = investment of C
+      * where, x = investment of A, y = investment of B, z = investment of C
       * and, p = time of investment of A, q = time of investment of B and r = time of investment of C
          
