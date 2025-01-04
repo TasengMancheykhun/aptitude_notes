@@ -8,6 +8,10 @@
     
     *   cheaper_quantity/ dearer_quantity = (d-m)/(m-c)
 
+    * Calulate mean CP
+      * Gain = (SP-CP)/CP x 100
+      * Loss = (CP-SP)/CP X 100
+
 
     * Suppose a container contains x of liquid from which y units are taken out and replaced by water.After n operations, the quantity of pure liquid = 
     * $$x (1 - y/x)^n$$ units.
