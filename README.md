@@ -6,9 +6,7 @@
     * $~~~~~~~~~~$ Mean price(m) $~~~~~~~~~~$
     * d-m $~~~~~~~~~~~~~~~~~~~~$ m-c
     
-    *   cheaper quantity    (d-m)
-    *   ---------------- =  -----
-    *   dearer quantity     (m-c)
+    *   cheaper_quantity/ dearer_quantity = (d-m)/(m-c)
 
 
     * Suppose a container contains x of liquid from which y units are taken out and replaced by water.After n operations, the quantity of pure liquid = 
