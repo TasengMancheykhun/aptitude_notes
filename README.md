@@ -2,7 +2,7 @@
 
 * Mixture and Alligation
   * Rule of Alligation:
-    * C.P of /kg of cheaper(c)      \t\t           C.P of /kg of dearer(d)
+    * C.P of /kg of cheaper(c)      $~~~~~$           C.P of /kg of dearer(d)
     *             \t       Mean price(m)  \t
     * d-m              \t\t                        m-c
     
