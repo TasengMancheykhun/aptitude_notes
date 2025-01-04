@@ -18,4 +18,8 @@
 
     * A jar full of whisky contains 40% alcohol. A part of this whisky is replaced by another containing 19% alcohol and now the percentage of alcohol was found to be 26%. The quantity of whisky replaced is: 
     * $$40(1-x)/100+19x/100 = 26/100$$
-    
+  
+
+* Problems on Age
+  * let present age of son be x  
+        
