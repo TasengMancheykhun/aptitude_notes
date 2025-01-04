@@ -2,10 +2,10 @@
 
 * Mixture and Alligation
   * Rule of Alligation:
-    * C.P of /kg of cheaper(c)      $~~~~~$           C.P of /kg of dearer(d)
-    *             \t       Mean price(m)  \t
-    * d-m              \t\t                        m-c
+    * C.P of /kg of cheaper(c)      $~~~~~~~~~~$       C.P of /kg of dearer(d)
+    *        $~~~~~~~~~~$           Mean price(m)      $~~~~~~~~~~$
+    * d-m     $~~~~~~~~~~$ m-c
     
-    *=> cheaper quantity    (d-m)
+    *   cheaper quantity    (d-m)
     *   ---------------- =  -----
     *   dearer quantity     (m-c)
