@@ -21,5 +21,13 @@
   
 
 * Problems on Age
-  * let present age of son be x  
+  * let present age of son be x
+
+* Partnership
+  * If A and B invest Rs. x and Rs. y respectively for a year in a business, then at the end of the year
+    * A's share of profit : B's share of profit = x : y
+
+  * If investments are for different time periods.
+    * If A invests Rs. x for p months and B invests Rs. y for q months, then
+      * A's share of profit: B's share of profit = xp : yq    
         
